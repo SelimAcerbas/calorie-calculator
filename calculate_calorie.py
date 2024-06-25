@@ -3,9 +3,9 @@ def main():
     # Example Usage
     example_input = {
     'gender': 'female',
-    'weight': 60,  # kg
+    'weight': 59,  # kg
     'height': 162,  # cm
-    'age': 26,
+    'age': 27,
     'activity_level': 'lightly active',
     'goal': 'deficit'
 }
